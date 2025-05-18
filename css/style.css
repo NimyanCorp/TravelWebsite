@@ -54,7 +54,7 @@ html {
   color: white;
   padding-top: 60px; /* Adjust for navbar height */
   transition: background-image 1.5s ease-in-out;
-  background-image: url("/TravelWebsite/Images/photo-1539635278303-d4002c07eae3.avif"); /* Initial background image */
+  background-image: url("/TravelWebsite/images/photo-1539635278303-d4002c07eae3.avif"); /* Initial background image */
 }
 
 .logo {
