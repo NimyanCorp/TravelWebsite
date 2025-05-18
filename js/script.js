@@ -1,10 +1,10 @@
 const images = [
-  "/TravelWebsite/Images/photo-1503220317375-aaad61436b1b.avif",
-  "/TravelWebsite/Images/photo-1539635278303-d4002c07eae3.avif",
-  "/TravelWebsite/Images/photo-1530789253388-582c481c54b0.avif",
-  "/TravelWebsite/Images/photo-1503457574462-bd27054394c1.avif",
-  "/TravelWebsite/Images/photo-5.avif",
-  "/TravelWebsite/Images/photo-6.avif",
+  "/TravelWebsite/images/photo-1503220317375-aaad61436b1b.avif",
+  "/TravelWebsite/images/photo-1539635278303-d4002c07eae3.avif",
+  "/TravelWebsite/images/photo-1530789253388-582c481c54b0.avif",
+  "/TravelWebsite/images/photo-1503457574462-bd27054394c1.avif",
+  "/TravelWebsite/images/photo-5.avif",
+  "/TravelWebsite/images/photo-6.avif",
 ];
 
 let currentIndex = 0;
