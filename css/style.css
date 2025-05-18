@@ -54,7 +54,7 @@ html {
   color: white;
   padding-top: 60px; /* Adjust for navbar height */
   transition: background-image 1.5s ease-in-out;
-  background-image: url("/TravelWebsite/Images/photo-1539635278303-d4002c07eae3.avif"); /* Initial background image */
+  background-image: url("/TravelWebsite/images/photo-1539635278303-d4002c07eae3.avif"); /* Initial background image */
 }
 
 .logo {
@@ -156,7 +156,7 @@ html {
 .container {
   background-size: cover;
   background-position: top;
-  background-image: url("/TravelWebsite/Images/Web_Photo_Editor.jpg");
+  background-image: url("/TravelWebsite/images/Web_Photo_Editor.jpg");
 }
 
 .main-section {
@@ -172,7 +172,7 @@ html {
   color: rgb(0, 0, 0);
   padding-top: 40px;
   /* transition: background-image 1.5s ease-in-out; */
-  /* background-image: url("/TravelWebsite/Images/Web_Photo_Editor.jpg"); Initial background image */
+  /* background-image: url("/TravelWebsite/images/Web_Photo_Editor.jpg"); Initial background image */
 }
 
 .main-section-contents {
