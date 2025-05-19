@@ -239,6 +239,7 @@ html {
   justify-content: space-around;
   align-items: center;
   height: 800px;
+  overflow: hidden;
   /* gap: 20px; Adjust as necessary to evenly space the items */
 }
 
