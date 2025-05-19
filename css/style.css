@@ -215,10 +215,23 @@ html {
   transition: all 0.5s ease-in-out;
 }
 
-.map_lines {
-  width: 20%;
-  height: auto;
+.map-lines {
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem; /* Optional: adds spacing around the image */
+  box-sizing: border-box;
 }
+
+.map-lines img {
+  width: 100%;
+  height: auto;
+  max-width: 800px; /* Optional: set a max-width if you want to limit how large it can get */
+  display: block;
+}
+
 
 .stack-image-main {
   position: relative;
